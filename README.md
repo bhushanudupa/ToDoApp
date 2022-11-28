@@ -6,8 +6,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ng update @angular/cli @angular/core
 ```
 
-If you want to learn more about Angular check out this blog post: https://adrianmejia.com/angular-2-tutorial-create-a-crud-app-with-angular-cli-and-typescript/
-
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
